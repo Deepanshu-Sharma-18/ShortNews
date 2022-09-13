@@ -8,7 +8,7 @@
 
 Insert gif or link to demo
 
-![alt text](https://github.com/Deepanshu-Sharma-18/QrGenz/blob/master/Picsart_22-09-12_16-07-47-230.jpg)
+![alt text](https://github.com/Deepanshu-Sharma-18/ShortNews/blob/master/Picsart_22-09-13_18-50-20-546.jpg)
 ## About ShortNews
 
 ShortNews app is an Demo Inshorts like app created using NewsApi based on MVVM architecture.
